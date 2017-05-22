@@ -1,0 +1,96 @@
+
+
+p 
+{
+	font-size: 20pt;
+ 	color:#f5f;
+ 	font-weight:bold;
+ 	text-align:center;
+}
+h1 
+{
+	font-size:40pt; 
+	color:green;
+	text-align:center;
+}
+h2
+{
+	font-size:20pt;
+	color:green;
+	text-align:center;
+}
+pre
+{
+	font-size:15pt;
+	color:#08f;
+}
+#banner
+{
+	position: relative;
+	width: 1680px;
+	height:200px;
+	left:0px;
+	top: -30px;
+	background-image:url('paper.gif');
+}
+	
+
+#left
+{
+	position: relative;
+	top:-30px;
+	left:10px;
+	width: 300px;
+	background-image:url('background1.jpg');
+}
+#bottomright
+{
+	position: relative;
+	top:-200px;
+	left:300px;
+	width: 950px;
+	text-align:center;
+}
+
+
+li
+{
+	font-size:20pt;
+}
+esp
+{
+	font-size:10pt;
+	color: black;
+	
+}
+form
+{
+	text-align:center;
+}
+#order
+{
+	text-align:center;
+}
+
+.order
+{
+	font-size:12pt;
+ 	color: red;
+}
+.login
+{
+	color: black;
+	font-size: 14pt;
+}
+.admin
+{
+	text-align:left;
+	color: black;
+	font-size: 14pt;
+}
+.adminDis
+{
+	text-align:center;
+	color: black;
+	font-size: 14pt;
+}
